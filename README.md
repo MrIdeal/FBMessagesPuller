@@ -2,7 +2,8 @@
 Pulls all the messages a FB data archive will have between two different specified people.
 
 # License
-There is no license. I used this as a personal project and thought I'd share it. Use/Modify as you please.
+There is no license for my code. Use/Modify as you please. However, this uses the JSoup binaries, which does have it's own
+license. Please refer to their license when using their library.
 
 # Usage
 You will need to customize the class yourself to be able to use it, but the usage is something like this:
