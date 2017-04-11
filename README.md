@@ -1,5 +1,5 @@
 # FBMessagesPuller
-Pulls all the messages a FB data archive will have between two different specified people.
+Pulls all the messages a FB data archive will have between two specified people.
 
 # License
 There is no license for my code. Use/Modify as you please. However, this uses the JSoup binaries, which does have it's own
